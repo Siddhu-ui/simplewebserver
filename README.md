@@ -1,4 +1,4 @@
-# EX01 Developing a Simple Webserver
+# EX01 Development
 ## Date:
 
 ## AIM:
@@ -6,7 +6,7 @@ To develop a simple webserver to serve html pages and display the configuration 
 
 ## DESIGN STEPS:
 ### Step 1: 
-HTML content creation.
+HTML content creation.WOWWWWWWWFCT
 
 ### Step 2:
 Design of webserver workflow.
